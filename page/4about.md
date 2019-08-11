@@ -11,8 +11,6 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
 中南大学计算机技术专业硕士，数据可视化研究方向
 
 主要兴趣集中在利用机器学习方法进行数据分析与预测，前端可视化方法探索与设计。
